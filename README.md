@@ -1,6 +1,7 @@
 # SIEM & Threat Hunting Lab: Email Security Analytics in Splunk
 
 An interactive, production-ready monitoring dashboard developed within **Splunk Cloud (Dashboard Studio)**. This project simulates a corporate Security Operations Center (SOC) environment to analyze inbound phishing traffic, monitor delivery filter efficiency, and aggregate malicious infrastructure indicators of compromise (IoCs).
+<img width="1440" height="900" alt="Screen Shot 2026-09-15 at 12 15 57 AM" src="https://github.com/user-attachments/assets/cbc1bcc3-f90e-46ac-8f4a-84d35616c9fe" />
 
 ---
 
